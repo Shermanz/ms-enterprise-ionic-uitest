@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <widget id="com.ionicframework.ionictabs121641" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>ionic-tabs</name>
     <description>
@@ -27,4 +27,5 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
     <plugin name="cordova-plugin-statusbar" spec="~2.1.0" />
     <plugin name="ionic-plugin-keyboard" spec="~1.0.8" />
+    <engine name="android" spec="~5.1.1" />
 </widget>
