@@ -29,7 +29,30 @@ angular.module('starter.services', [])
     name: 'Mike Harrington',
     lastText: 'This is wicked good ice cream.',
     face: 'img/mike.png'
-  }];
+  }, {
+      id: 5,
+      name: 'Mahmoud Ali',
+      lastText: 'Estou Ali. Entendeu? rs',
+      face: 'img/mike.png'
+  }, {
+      id: 6,
+      name: 'Mike Harrington',
+      lastText: 'This is wicked good ice cream.',
+      face: 'img/mike.png'
+  }, {
+      id: 7,
+      name: 'Mike Harrington',
+      lastText: 'This is wicked good ice cream.',
+      face: 'img/mike.png'
+  },
+  {
+      id: 8,
+      name: 'Wennder dos Santos',
+      lastText: 'Olá pessoas.',
+      face: 'img/mike.png'
+  }
+
+  ];
 
   return {
     all: function() {
